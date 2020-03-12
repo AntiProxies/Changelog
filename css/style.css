@@ -1,0 +1,65 @@
+#changelog-container {
+    width: 720px;
+    margin: 0 auto;
+    padding-top: 50px;
+    color: #1a3754;
+}
+#changelog-container a {
+    color: #1c9bdd;
+    text-decoration: none;
+}
+#changelog-container .logo {
+    margin-bottom: 50px;
+    text-align: center;
+}
+#changelog-container .header {
+    margin-bottom: 50px;
+    margin-top: 50px;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+#changelog-container .changelog-item {
+    padding-top: 35px;
+    padding-bottom: 35px;
+    border-top: 1px solid #eee;
+}
+#changelog-container .changelog-item .date {
+    display: inline-block;
+    width: 170px;
+    vertical-align: top;
+    opacity: 0.5;
+}
+#changelog-container .changelog-item .content {
+    display: inline-block;
+    width: 540px;
+}
+#changelog-container .changelog-item .content .title {
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 28px;
+}
+#changelog-container .changelog-item .content .type {
+    display: inline-block;
+    color: white;
+    border-radius: 30px;
+    padding: 4px 15px 4px 15px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    font-size: 15px;
+    font-weight: bold;
+}
+#changelog-container .changelog-item .content .new {
+    background-color: #1c9bdd;
+}
+#changelog-container .changelog-item .content .improvement {
+    background-color: #2cb967;
+}
+#changelog-container .changelog-item .content .fix {
+    background-color: #ffb400;
+}
+#changelog-container .changelog-item .content .body {
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 26px;
+}
