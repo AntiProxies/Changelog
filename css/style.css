@@ -55,7 +55,10 @@
 #changelog-container .changelog-item .content .improvement {
     background-color: #2cb967;
 }
-#changelog-container .changelog-item .content .fix {
+#changelog-container .changelog-item .content .bug-fix {
+    background-color: #e02424;
+}
+#changelog-container .changelog-item .content .change {
     background-color: #ffb400;
 }
 #changelog-container .changelog-item .content .body {
@@ -68,12 +71,15 @@
     position:absolute; 
     bottom:0; 
     width:100%; 
-    height:100px; 
+    height:75px; 
   }
 #credit {
     font-size: 12px;
     color: #1a3754;
   }
+#footer-wrap {
+    padding-bottom: 2.5rem;    /* Footer height */
+  } 
 
 /* Who dosn't like the stock href design. It just kills me inside to see it. It is a temporary fix intil i have more time for this page. */
 a:link {
