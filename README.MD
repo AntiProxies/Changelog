@@ -1,6 +1,6 @@
 # AntiProxies Changelog
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/38e6b4a7-da86-4c22-8581-81e220d32a87/deploy-status)](https://app.netlify.com/sites/vibrant-goldberg-93e828/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/896e9dee-d49f-46a4-82f9-61f63c973903/deploy-status)](https://app.netlify.com/sites/antiproxies-changelog/deploys)
 
 
 Changelog for your website.
