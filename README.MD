@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AntiProxies/Debut-Simple-changelog/images/logo-t.png">
+  <img src="https://raw.githubusercontent.com/AntiProxies/Debut-Simple-changelog/master/images/logo-t.png">
 </p>
 
 # Debut Simple Changelog by AntiProxies
