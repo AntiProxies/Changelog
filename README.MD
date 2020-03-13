@@ -1,4 +1,7 @@
-<center><img scr="https://github.com/AntiProxies/Debut-Simple-changelog/blob/master/images/logo-t.png"></center>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AntiProxies/Debut-Simple-changelog/images/logo-t.png">
+</p>
+
 # Debut Simple Changelog by AntiProxies
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/896e9dee-d49f-46a4-82f9-61f63c973903/deploy-status)](https://app.netlify.com/sites/antiproxies-changelog/deploys)
